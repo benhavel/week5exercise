@@ -1,4 +1,17 @@
 /*Cascading Style Sheets*/
-li:last-child {
-	color:green;
+.bg-primary {
+	background-color: dodgerblue!important;
+}
+.jumbotron {
+	background-image: url(http://getbootstrap.com/docs/4.1/assets/brand/bootstrap-social.png);
+	object-fit: cover;
+}
+.col-4 img {
+	height: 200px;
+	border-radius: 15px;
+	object-fit: cover;
+}
+
+.col-4 {
+	text-align: center;
 }
